@@ -1,4 +1,4 @@
-# Kenzie JS and the DOM Assessment
+# dice roll sim
 
 Complete your work inside of `code.js`
 
